@@ -1,0 +1,61 @@
+h1 {
+    color:red;
+}
+
+.claseTitulo {
+    color: blue;
+}
+
+.claseFlex {
+    display: flex;
+    justify-content: space-between;
+}
+
+.claseInnerFlex {
+    display: flex;
+    flex-direction: column;
+    
+ }
+
+.claseContenedorLeft {
+    background-color: black;
+    text-align: center;
+    flex-grow: 2;
+}
+
+.claseContenedorRight {
+    flex-grow: 4;
+    text-align: center;
+}
+
+.claseInnerDiv {
+    flex-grow: 1;
+    text-align: center;
+}
+
+.claseAqua {
+  background-color: aqua;    
+}
+
+.claseYellow {
+    background-color: yellow;    
+  }
+
+.claseRed {
+    background-color: red;    
+  }
+
+#identificador {
+    color: green;
+}
+
+.claseMenuNavegacion {
+    color: white;
+    font-weight: bold;
+    
+}
+
+.claseMenuNavegacion:hover{
+   color: grey;
+   font-size: large;
+}
