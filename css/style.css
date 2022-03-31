@@ -9,6 +9,7 @@ h1 {
 .claseFlex {
     display: flex;
     justify-content: space-between;
+    font-family: sans-serif;
 }
 
 .claseInnerFlex {
